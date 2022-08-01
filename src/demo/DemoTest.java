@@ -7,4 +7,10 @@ public class DemoTest {
 		System.out.println("Test");
 	}
 
+	public static void Food(String entree, String side) {
+
+		System.out.println (entree + side);
+
+	}
+
 }
