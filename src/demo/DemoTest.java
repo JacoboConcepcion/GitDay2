@@ -14,5 +14,10 @@ public class DemoTest {
 	}
 	
 	//from Github
+	
+	public int lucky = 8;
+	System.out.println (Lucky);
+	
+
 
 }
