@@ -9,17 +9,13 @@ public class DemoTest {
 
 	public static void Food(String entree, String side) {
 
+		
+		
 		System.out.println (entree + side);
 
 	}
-	
-	//from Github
-		
-	int lucky = 8;
-	System.out.println (ucky);
-	
-	
-	
+
+
 
 
 }
